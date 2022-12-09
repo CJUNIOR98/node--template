@@ -7,6 +7,10 @@
         "start": "nodemon server.js"
     },
     "author": "cjunior",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/CJUNIOR98/node--template.git"
+    },
     "license": "ISC",
     "dependencies": {
         "bcryptjs": "^2.4.3",

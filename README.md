@@ -18,5 +18,5 @@ Development dependencies for the project.
 npm i nodemon -D
 ```
 
-## Nota
+## Note
 You are invited to make your contributions and improvements in the repository, those who `contribute` to it will be automatically published in the README file of the repository 😀...
